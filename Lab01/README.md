@@ -1,6 +1,6 @@
 # Model Evaluation & Performance Benchmark Results
 
-This repository contains benchmarking results and performance evaluations for various machine learning and deep learning classification models. Below are the summary tables generated from the evaluation pipeline [cite: 1].
+This repository contains benchmarking results and performance evaluations for various machine learning and deep learning classification models. Below are the summary tables generated from the evaluation pipeline 
 
 ## Table 1: Classification Models Performance Benchmarks
 
@@ -36,6 +36,3 @@ This repository contains benchmarking results and performance evaluations for va
 | **Energy Efficiency** | 24.809783 | 5.406934 | 0.069178 |
 
 ---
-
-## References
-* Source Notebook and Data Generation [cite: 1]
